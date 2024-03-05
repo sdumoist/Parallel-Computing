@@ -1,7 +1,5 @@
 # 并行计算程序使用说明
 
-2020级软件工程1班201922301282李润泽
-
 
 
 通用版本的编译脚本是***pivot***
@@ -32,7 +30,7 @@ gcc -fopenmp -std=c++11 pivot.c -o pivot -O3 -lstdc++ -lm
 
 gcc -fopenmp -std=c++11 pivotMini.c -o pivotMini -O3 -lstdc++ -lm
 
-**联系方式：**李润泽 QQ：2076520410
+
 
  
 
